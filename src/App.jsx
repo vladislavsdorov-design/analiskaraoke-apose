@@ -63,10 +63,10 @@ export default function App() {
     <div className="shell">
       <aside className="side">
         <div className="brand">
-          <img className="logopngana" src="./logana.png" alt="" />
+          {/* <img className="logopngana" src="./logana.png" alt="" /> */}
           {/* <span className="brand-mark" aria-hidden="true" /> */}
           <div>
-            <strong>Karaoke</strong>
+            <strong>Karaoke LaPose</strong>
             <span>Analytics</span>
           </div>
         </div>
